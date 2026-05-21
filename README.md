@@ -132,3 +132,6 @@ Docker deployment
 Kubernetes deployment
 Redis caching
 Multi-user support
+
+##Screenshots of the project-
+![alt text](<Screenshot 2026-05-21 at 6.29.57 PM.png>) ![alt text](<Screenshot 2026-05-21 at 6.29.51 PM.png>) ![alt text](<Screenshot 2026-05-21 at 6.29.47 PM.png>) ![alt text](<Screenshot 2026-05-21 at 6.29.25 PM.png>) ![alt text](<Screenshot 2026-05-21 at 6.28.28 PM.png>)
