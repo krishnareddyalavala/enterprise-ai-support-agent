@@ -1,0 +1,7 @@
+Employees can reset VPN passwords using the internal IT portal.
+
+Laptop replacement is available every 3 years.
+
+All employees must enable multi-factor authentication.
+
+Software installation requests require manager approval.

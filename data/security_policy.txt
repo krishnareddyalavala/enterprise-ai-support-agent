@@ -1,0 +1,7 @@
+Employees must complete cybersecurity training every quarter.
+
+Sensitive customer data must not be shared externally.
+
+All devices must use encrypted storage.
+
+Unauthorized USB devices are prohibited.
