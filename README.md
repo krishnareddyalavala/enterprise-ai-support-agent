@@ -135,3 +135,48 @@ Multi-user support
 
 ##Screenshots of the project-
 ![alt text](<Screenshot 2026-05-21 at 6.29.57 PM.png>) ![alt text](<Screenshot 2026-05-21 at 6.29.51 PM.png>) ![alt text](<Screenshot 2026-05-21 at 6.29.47 PM.png>) ![alt text](<Screenshot 2026-05-21 at 6.29.25 PM.png>) ![alt text](<Screenshot 2026-05-21 at 6.28.28 PM.png>)
+
+
+>>>>>If you want to run my Project.
+>>Please follow this instruction
+How Someone Else Would Run It
+
+You should do:
+
+1. Clone Repo
+git clone <your_github_repo>
+cd enterprise-ai-support-agent
+
+2. Create Virtual Environment
+python3 -m venv venv
+source venv/bin/activate
+
+3. Install Dependencies
+pip install -r requirements.txt
+
+This installs:
+
+Streamlit
+LangChain
+ChromaDB
+Transformers
+PEFT
+etc.
+4. Add API Key
+
+Create:
+
+.env
+
+Add:
+
+OPENAI_API_KEY=their_key
+
+because your .env file is NOT uploaded (good security practice).
+
+5. Run App
+streamlit run app/main.py
+
+Then app opens in browser.
+
+>>>>>Done.
